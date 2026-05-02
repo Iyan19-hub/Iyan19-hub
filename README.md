@@ -33,14 +33,6 @@ Saya adalah mahasiswa **Software Engineering** di Politeknik Astra yang gemar me
 
 ---
 
-### 📊 Engineering Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iyan19-hub&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyan19-hub&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
-</p>
-
----
-
 ### 📂 Highlight Projects
 - **AstraFest:** Ticket Booking System with GUI (C & Raylib)
 - **ArtSport 2026:** Live reporting and broadcast production
@@ -50,10 +42,10 @@ Saya adalah mahasiswa **Software Engineering** di Politeknik Astra yang gemar me
 
 ### 📫 Let's Connect!
 <p align="left">
-  <a href="https://www.instagram.com/_iyannnn.19/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <b>&nbsp; @_iyannnn.19</b>
+<a href="https://www.instagram.com/_iyannnn.19/" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="35" align="center" />
+</a>
+<span><b> @_iyannnn.19</b></span>
 </p>
 
 <br />
