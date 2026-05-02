@@ -7,7 +7,7 @@
 ---
 
 ### 🎬 Behind the Lens & 💻 Behind the Code
-Saya adalah mahasiswa **Software Engineering** yang gemar merangkai baris kode sepresisi potongan *frame* video. Saya fokus pada pengembangan sistem yang fungsional sekaligus memiliki estetika visual yang kuat.
+Saya adalah mahasiswa **Software Engineering** di Politeknik Astra yang gemar merangkai baris kode sepresisi potongan *frame* video. Saya fokus pada pengembangan sistem yang fungsional sekaligus memiliki estetika visual yang kuat.
 
 - 🎓 **Education:** Software Engineering at Politeknik Astra
 - 🎥 **Specialty:** Motion Graphics, Video Editing, & Live Streaming Production
@@ -20,7 +20,7 @@ Saya adalah mahasiswa **Software Engineering** yang gemar merangkai baris kode s
 #### 💻 Programming & Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,bash,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=c,java,mysql,bash,html,css,git" />
   </a>
 </p>
 
@@ -35,23 +35,24 @@ Saya adalah mahasiswa **Software Engineering** yang gemar merangkai baris kode s
 
 ### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iyan19-hub&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyan19-hub&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ### 📂 Highlight Projects
-- **AstraFest:** Concert Ticket Booking System (C & Raylib)
-- **Live Stream Infrastructure:** Broadcast setup for campus events
-- **Motion Assets:** Custom transitions and overlays for live production
+- **AstraFest:** Ticket Booking System with GUI (C & Raylib)
+- **ArtSport 2026:** Live reporting and broadcast production
+- **Digital Assets:** Motion graphics and custom branding assets
 
 ---
 
 ### 📫 Let's Connect!
 <p align="left">
-  <a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_iyannnn.19/" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+  </a>
 </p>
 
 <br />
