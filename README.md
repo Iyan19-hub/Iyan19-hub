@@ -51,8 +51,9 @@ Saya adalah mahasiswa **Software Engineering** di Politeknik Astra yang gemar me
 ### 📫 Let's Connect!
 <p align="left">
   <a href="https://www.instagram.com/_iyannnn.19/" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
+  <b>&nbsp; @_iyannnn.19</b>
 </p>
 
 <br />
