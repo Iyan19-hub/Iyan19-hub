@@ -27,8 +27,8 @@ Saya adalah mahasiswa **Software Engineering** di Politeknik Astra yang gemar me
 ### 🎨 Creative Suite & Production
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ae,pr,ps,au,obs,blender" height="50" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-1A2930?style=for-the-badge&logo=davinciresolve&logoColor=white" height="50" />
-  <img src="https://img.shields.io/badge/vMix-003366?style=for-the-badge&logo=vmix&logoColor=white" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/davinci-resolve-1.svg" height="50" width="50" style="border-radius: 10px;" />
+  <img src="https://img.icons8.com/color/48/vmix.png" height="50" width="50" />
 </p>
 
 ---
