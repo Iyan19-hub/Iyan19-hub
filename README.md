@@ -1,7 +1,7 @@
 # ⚡ Hello, I'm Iyan! 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineering+PolytechnicASTRA;Video+Editor+%26+Motion+Graphic;Live+Broadcast+Operator;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=10000&color=36BCF7&width=435&lines=Software+Engineering+PolytechnicASTRA;Video+Editor+%26+Motion+Graphic;Live+Broadcast+Operator;Creative+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
